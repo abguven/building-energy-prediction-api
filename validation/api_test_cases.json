@@ -1,0 +1,172 @@
+[
+  {
+    "description": "Test case from original index 137",
+    "api_input": {
+      "data": {
+        "LargestPropertyUseType": "Non-Refrigerated Warehouse",
+        "ListOfAllPropertyUseTypes": "Non-Refrigerated Warehouse, Office, Retail Store",
+        "YearBuilt": 1938,
+        "NumberofFloors": 2,
+        "PropertyGFAParking": 0,
+        "ENERGYSTARScore": 74.0,
+        "PropertyGFABuilding_s_": 41276
+      }
+    },
+    "ground_truth": {
+      "SiteEnergyUse(kBtu)": 2502081
+    }
+  },
+  {
+    "description": "Test case from original index 27",
+    "api_input": {
+      "data": {
+        "LargestPropertyUseType": "K-12 School",
+        "ListOfAllPropertyUseTypes": "K-12 School",
+        "YearBuilt": 1989,
+        "NumberofFloors": 2,
+        "PropertyGFAParking": 0,
+        "ENERGYSTARScore": 74.0,
+        "PropertyGFABuilding_s_": 51582
+      }
+    },
+    "ground_truth": {
+      "SiteEnergyUse(kBtu)": 1496816
+    }
+  },
+  {
+    "description": "Test case from original index 8",
+    "api_input": {
+      "data": {
+        "LargestPropertyUseType": "Worship Facility",
+        "ListOfAllPropertyUseTypes": "Other, Worship Facility",
+        "YearBuilt": 1926,
+        "NumberofFloors": 2,
+        "PropertyGFAParking": 0,
+        "ENERGYSTARScore": 17.0,
+        "PropertyGFABuilding_s_": 47992
+      }
+    },
+    "ground_truth": {
+      "SiteEnergyUse(kBtu)": 3040195
+    }
+  },
+  {
+    "description": "Test case from original index 189",
+    "api_input": {
+      "data": {
+        "LargestPropertyUseType": "Other",
+        "ListOfAllPropertyUseTypes": "Other",
+        "YearBuilt": 1970,
+        "NumberofFloors": 1,
+        "PropertyGFAParking": 0,
+        "ENERGYSTARScore": 74.0,
+        "PropertyGFABuilding_s_": 141686
+      }
+    },
+    "ground_truth": {
+      "SiteEnergyUse(kBtu)": 6673138
+    }
+  },
+  {
+    "description": "Test case from original index 138",
+    "api_input": {
+      "data": {
+        "LargestPropertyUseType": "Non-Refrigerated Warehouse",
+        "ListOfAllPropertyUseTypes": "Non-Refrigerated Warehouse",
+        "YearBuilt": 1959,
+        "NumberofFloors": 1,
+        "PropertyGFAParking": 0,
+        "ENERGYSTARScore": 84.0,
+        "PropertyGFABuilding_s_": 35400
+      }
+    },
+    "ground_truth": {
+      "SiteEnergyUse(kBtu)": 419978
+    }
+  },
+  {
+    "description": "Test case from original index 251",
+    "api_input": {
+      "data": {
+        "LargestPropertyUseType": "Office",
+        "ListOfAllPropertyUseTypes": "Office, Other, Retail Store",
+        "YearBuilt": 1989,
+        "NumberofFloors": 2,
+        "PropertyGFAParking": 0,
+        "ENERGYSTARScore": 74.0,
+        "PropertyGFABuilding_s_": 23472
+      }
+    },
+    "ground_truth": {
+      "SiteEnergyUse(kBtu)": 1625308
+    }
+  },
+  {
+    "description": "Test case from original index 208",
+    "api_input": {
+      "data": {
+        "LargestPropertyUseType": "Hotel",
+        "ListOfAllPropertyUseTypes": "Hotel",
+        "YearBuilt": 1994,
+        "NumberofFloors": 4,
+        "PropertyGFAParking": 0,
+        "ENERGYSTARScore": 29.0,
+        "PropertyGFABuilding_s_": 81871
+      }
+    },
+    "ground_truth": {
+      "SiteEnergyUse(kBtu)": 6668568
+    }
+  },
+  {
+    "description": "Test case from original index 205",
+    "api_input": {
+      "data": {
+        "LargestPropertyUseType": "Office",
+        "ListOfAllPropertyUseTypes": "Office",
+        "YearBuilt": 1900,
+        "NumberofFloors": 2,
+        "PropertyGFAParking": 0,
+        "ENERGYSTARScore": 48.0,
+        "PropertyGFABuilding_s_": 20500
+      }
+    },
+    "ground_truth": {
+      "SiteEnergyUse(kBtu)": 1326178
+    }
+  },
+  {
+    "description": "Test case from original index 49",
+    "api_input": {
+      "data": {
+        "LargestPropertyUseType": "Office",
+        "ListOfAllPropertyUseTypes": "Bar/Nightclub, Office, Personal Services (Health/Beauty, Dry Cleaning, etc)",
+        "YearBuilt": 1963,
+        "NumberofFloors": 11,
+        "PropertyGFAParking": 0,
+        "ENERGYSTARScore": 83.0,
+        "PropertyGFABuilding_s_": 169020
+      }
+    },
+    "ground_truth": {
+      "SiteEnergyUse(kBtu)": 11480494
+    }
+  },
+  {
+    "description": "Test case from original index 24",
+    "api_input": {
+      "data": {
+        "LargestPropertyUseType": "Non-Refrigerated Warehouse",
+        "ListOfAllPropertyUseTypes": "Distribution Center, Non-Refrigerated Warehouse, Supermarket/Grocery Store",
+        "YearBuilt": 1922,
+        "NumberofFloors": 1,
+        "PropertyGFAParking": 0,
+        "ENERGYSTARScore": 73.0,
+        "PropertyGFABuilding_s_": 37400
+      }
+    },
+    "ground_truth": {
+      "SiteEnergyUse(kBtu)": 924192
+    }
+  }
+]

@@ -1,0 +1,25 @@
+
+# Exclure les dossiers ou fichiers non essentiels
+auth/
+tests/
+.bentoignore
+.gitignore
+.git/
+*.ipynb_checkpoints
+__init__.py
+
+# Exclure les fichiers et dossiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Exclure les fichiers d'environnement ou de configuration locales
+.env
+environment.py
+.env.*
+*.env
+
+# Exclure les fichiers temporaires et de logs
+*.log
+*.tmp
+*.bak

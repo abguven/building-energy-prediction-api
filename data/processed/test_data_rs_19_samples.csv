@@ -1,0 +1,102 @@
+sep=;
+OSEBuildingID;BuildingType;CouncilDistrictCode;Neighborhood;LargestPropertyUseType;ComplianceStatus;YearBuilt;NumberofBuildings;NumberofFloors;PropertyGFAParking;PropertyGFABuilding(s);ENERGYSTARScore;ListOfAllPropertyUseTypes;SiteEnergyUse(kBtu)
+40;NonResidential;4;Northeast;Hotel;Compliant;1994;1.0;4;0;81871;29.0;Hotel;6668568.5
+214;SPS-District K-12;1;Delridge;K-12 School;Error - Correct Default Data;1963;1.0;1;0;145341;75.0;K-12 School;5499097.0
+131;NonResidential;4;Northeast;Other;Compliant;1941;1.0;4;0;56521;;Other;6357632.0
+231;SPS-District K-12;4;Lake Union;K-12 School;Error - Correct Default Data;2010;1.0;3;0;127776;75.0;K-12 School;4748137.0
+349;NonResidential;7;Downtown;Office;Compliant;1991;1.0;29;197231;438072;95.0;Office, Parking;18221224.0
+244;NonResidential;7;Downtown;Office;Compliant;1900;1.0;3;0;44558;78.0;Office, Restaurant, Self-Storage Facility;1677002.25
+363;NonResidential;4;Northeast;Retail Store;Compliant;1978;1.0;2;0;89200;83.0;Retail Store;6461937.0
+65;NonResidential;7;Downtown;Hotel;Compliant;1985;1.0;7;0;71150;98.0;Hotel, Parking, Restaurant, Retail Store;5348309.0
+290;SPS-District K-12;1;Southwest;K-12 School;Error - Correct Default Data;2005;1.0;3;0;134918;91.0;K-12 School;3822102.5
+409;NonResidential;7;Downtown;Office;Compliant;1984;1.0;6;13200;96630;45.0;Office, Other, Parking, Retail Store;7335905.5
+334;NonResidential;7;Downtown;Office;Compliant;2009;1.0;25;228668;529375;95.0;Office, Parking;27018020.0
+433;NonResidential;7;Downtown;Retail Store;Compliant;1929;1.0;8;0;861702;;Other, Retail Store;17666646.0
+384;NonResidential;2;Greater Duwamish;Non-Refrigerated Warehouse;Compliant;1977;1.0;1;0;128800;97.0;Non-Refrigerated Warehouse, Other;1809101.5
+137;SPS-District K-12;5;Northwest;K-12 School;Error - Correct Default Data;1963;1.0;2;0;131013;88.0;K-12 School;3894584.5
+313;NonResidential;7;Magnolia / Queen Anne;Medical Office;Compliant;1927;1.0;5;39000;151000;1.0;Medical Office, Office;28731502.0
+347;NonResidential;7;Downtown;Office;Compliant;1950;1.0;6;1392;89699;;Office, Parking;1835804.875
+383;NonResidential;7;Downtown;Office;Compliant;1912;1.0;42;0;304346;72.0;Office, Other - Restaurant/Bar, Retail Store, Single Family Home;23262244.0
+273;SPS-District K-12;1;Delridge;K-12 School;Error - Correct Default Data;1999;1.0;1;0;71714;87.0;K-12 School;2371358.0
+187;NonResidential;3;Central;Other;Compliant;1971;3.0;6;0;250981;;Courthouse, Other;13071700.0
+100;NonResidential;7;Lake Union;Office;Compliant;2010;1.0;5;0;316306;96.0;Office, Other, Parking, Retail Store;13795954.0
+376;NonResidential;7;Downtown;Office;Compliant;2002;1.0;6;83591;203880;74.0;Office, Other, Other - Restaurant/Bar, Parking;14913424.0
+430;NonResidential;7;Downtown;Office;Compliant;1925;1.0;4;0;52800;83.0;Office, Restaurant;2429021.0
+66;NonResidential;7;Downtown;Hotel;Compliant;1908;1.0;7;0;122810;99.0;Hotel, Other - Entertainment/Public Assembly, Retail Store;5401277.5
+59;NonResidential;7;Downtown;Office;Compliant;1910;1.0;8;0;59400;14.0;Office, Retail Store;5071974.0
+336;NonResidential;7;Downtown;Office;Compliant;2009;1.0;36;154972;669915;97.0;Office, Parking;39523852.0
+15;NonResidential;7;Downtown;Hotel;Compliant;1969;1.0;11;19279;133884;30.0;Hotel;16016644.0
+29;NonResidential;4;Northeast;Hotel;Compliant;2001;1.0;6;30586;58006;84.0;Hotel, Parking;3663534.5
+352;NonResidential;7;Downtown;Office;Compliant;1972;1.0;14;23775;162993;95.0;Data Center, Office, Parking;9641043.0
+195;NonResidential;5;North;Other/Specialty Hospital;Compliant;1964;1.0;3;0;54224;;Other/Specialty Hospital;7265178.0
+31;NonResidential;7;Downtown;Automobile Dealership;Compliant;1930;1.0;2;0;67224;;Automobile Dealership;1310236.625
+209;NonResidential;3;East;Self-Storage Facility;Compliant;1910;1.0;5;0;84870;;Self-Storage Facility;1381590.125
+112;Nonresidential COS;7;Magnolia / Queen Anne;Other;Compliant;1928;1.0;2;0;262048;;Other;20723248.0
+261;Campus;1;Greater Duwamish;Office;Compliant;1980;14.0;2;31874;302494;;Laboratory, Non-Refrigerated Warehouse, Office, Other - Utility;53466684.0
+381;NonResidential;6;Northwest;Supermarket/Grocery Store;Compliant;1956;1.0;1;0;60880;54.0;Supermarket/Grocery Store;14293972.0
+415;NonResidential;7;Downtown;Office;Compliant;1985;1.0;30;134662;620338;72.0;Bank Branch, Office, Other, Parking, Restaurant;52226204.0
+10;NonResidential;7;Downtown;Hotel;Compliant;1926;1.0;11;0;83008;27.0;Hotel;5758795.0
+223;NonResidential;1;Delridge;Retail Store;Compliant;1966;1.0;1;0;64984;72.0;Retail Store;2944296.25
+111;Nonresidential COS;7;Magnolia / Queen Anne;Other;Compliant;1928;1.0;1;0;60696;;Other;875943.3125
+220;NonResidential;2;Greater Duwamish;Non-Refrigerated Warehouse;Compliant;1937;1.0;1;0;234144;87.0;Non-Refrigerated Warehouse;6744317.0
+216;SPS-District K-12;2;Southeast;K-12 School;Error - Correct Default Data;1960;1.0;2;0;184125;86.0;K-12 School;8800292.0
+32;NonResidential;7;East;Hotel;Compliant;1991;1.0;8;30301;128375;;Hotel, Parking, Retail Store, Swimming Pool;5328051.5
+229;SPS-District K-12;2;Southeast;K-12 School;Error - Correct Default Data;2004;1.0;2;0;67371;92.0;K-12 School;2128459.0
+404;NonResidential;7;Downtown;Retail Store;Compliant;1914;1.0;4;0;79957;25.0;Office, Retail Store;5252131.0
+26;NonResidential;7;Downtown;Courthouse;Compliant;1916;1.0;10;0;540360;76.0;Courthouse;44984468.0
+127;SPS-District K-12;2;Southeast;K-12 School;Error - Correct Default Data;1989;1.0;3;0;59955;93.0;K-12 School;1633399.375
+371;NonResidential;7;Downtown;Parking;Compliant;2000;1.0;11;195621;185760;94.0;Fitness Center/Health Club/Gym, Office, Parking;9765777.0
+167;NonResidential;2;Downtown;Museum;Compliant;1910;1.0;4;13820;59000;;Museum;2010454.625
+361;NonResidential;7;Downtown;Office;Compliant;1909;1.0;7;8296;106099;99.0;Office;2746560.75
+170;NonResidential;3;East;College/University;Compliant;1915;1.0;3;0;63330;;College/University;3059758.0
+331;NonResidential;7;Downtown;Office;Compliant;1930;1.0;17;30000;174790;91.0;Office, Other - Recreation, Parking, Retail Store;7739699.0
+22;NonResidential;7;Downtown;Fitness Center/Health Club/Gym;Compliant;1930;1.0;6;0;103911;;Fitness Center/Health Club/Gym, Office, Swimming Pool;9956396.0
+283;NonResidential;5;North;Office;Compliant;1972;1.0;5;0;50759;62.0;Office, Restaurant;3147042.0
+389;NonResidential;7;Downtown;Hotel;Compliant;1923;1.0;12;0;542305;45.0;Hotel, Swimming Pool;56485204.0
+413;NonResidential;7;Downtown;Office;Compliant;1929;1.0;14;0;137350;89.0;Office;6366084.5
+212;SPS-District K-12;2;Southeast;K-12 School;Error - Correct Default Data;1952;1.0;2;0;173185;79.0;K-12 School;6127771.5
+50;SPS-District K-12;7;Magnolia / Queen Anne;K-12 School;Compliant;1990;1.0;2;0;54986;97.0;K-12 School;1650279.25
+335;NonResidential;7;Downtown;Office;Compliant;1968;1.0;12;0;206000;91.0;Office, Parking;8580279.0
+250;NonResidential;2;Greater Duwamish;Hotel;Compliant;2005;1.0;9;14567;153882;64.0;Food Service, Hotel, Parking;12726789.0
+350;NonResidential;7;Downtown;Office;Non-Compliant;1958;1.0;6;25920;146922;;Data Center, Office, Parking;41399504.0
+54;NonResidential;6;Northwest;K-12 School;Compliant;1954;1.0;3;0;175015;95.0;K-12 School;6994740.5
+23;NonResidential;7;Downtown;Hotel;Compliant;1983;1.0;28;85000;331281;31.0;Hotel, Parking;33556756.0
+121;NonResidential;3;Southeast;Office;Compliant;2003;1.0;3;35752;63681;63.0;Office, Parking;4897760.0
+278;NonResidential;2;Downtown;Senior Care Community;Compliant;1999;1.0;5;12611;90185;;K-12 School, Medical Office, Office, Restaurant, Retail Store, Senior Care Community;10105379.0
+16;NonResidential;7;Downtown;Hotel;Compliant;1998;1.0;25;61161;272015;36.0;Hotel;26941110.0
+390;NonResidential;2;Southeast;Retail Store;Compliant;1980;1.0;2;0;291940;80.0;Office, Retail Store;11688601.0
+110;Nonresidential COS;7;Magnolia / Queen Anne;Other;Compliant;1962;1.0;2;0;52000;;Other;2726369.0
+416;NonResidential;7;Downtown;Office;Compliant;1906;1.0;4;0;63540;72.0;Office;3518459.5
+382;NonResidential;7;Downtown;Office;Compliant;1900;1.0;5;0;50176;77.0;Office, Other, Restaurant;2933288.75
+333;NonResidential;7;Downtown;Office;Compliant;1969;1.0;20;32334;233517;90.0;Office, Parking;14633233.0
+119;NonResidential;3;East;K-12 School;Compliant;1923;1.0;3;0;67743;34.0;K-12 School;2646879.0
+25;NonResidential;7;Downtown;Hotel;Compliant;1916;1.0;10;0;104352;39.0;Hotel;10154608.0
+179;NonResidential;2;Greater Duwamish;Office;Compliant;1958;1.0;1;0;54765;;Office, Other;4253369.5
+348;NonResidential;7;Downtown;Office;Compliant;1968;1.0;8;62993;94948;81.0;Office, Parking;3743228.5
+205;SPS-District K-12;6;Ballard;K-12 School;Error - Correct Default Data;1999;1.0;2;0;242795;80.0;K-12 School;9157150.0
+318;NonResidential;7;Downtown;Restaurant;Compliant;1900;1.0;1;0;62900;;Other, Restaurant, Retail Store;10394330.0
+145;Nonresidential COS;7;Downtown;Other - Entertainment/Public Assembly;Compliant;1998;1.0;6;0;284100;;Other - Entertainment/Public Assembly;14641502.0
+85;NonResidential;5;Northwest;Senior Care Community;Compliant;1970;1.0;2;0;93397;1.0;Senior Care Community;16402563.0
+175;SPS-District K-12;3;Central;K-12 School;Error - Correct Default Data;2008;1.0;3;0;254523;60.0;K-12 School;13567774.0
+353;NonResidential;7;Downtown;Office;Compliant;1969;1.0;49;368980;754455;89.0;Financial Office, Food Sales, Office, Other, Parking;45163308.0
+55;NonResidential;7;Downtown;Self-Storage Facility;Compliant;1911;1.0;3;0;70586;;Office, Self-Storage Facility, Vocational School;2158629.0
+285;NonResidential;4;Northeast;Worship Facility;Compliant;1952;1.0;3;0;103000;42.0;Worship Facility;4854429.5
+139;NonResidential;5;Northwest;Hotel;Compliant;2002;1.0;3;0;69138;78.0;Hotel;3242458.0
+414;NonResidential;7;Downtown;Office;Compliant;1929;1.0;15;0;151039;84.0;Office;5446624.0
+169;SPS-District K-12;2;Southeast;K-12 School;Error - Correct Default Data;1990;1.0;4;0;289588;90.0;K-12 School;8819852.0
+354;NonResidential;7;Downtown;Office;Compliant;2002;1.0;37;164420;888049;93.0;Convenience Store without Gas Station, Data Center, Financial Office, Fitness Center/Health Club/Gym, Office, Other, Parking, Personal Services (Health/Beauty, Dry Cleaning, etc), Restaurant;41213584.0
+230;NonResidential;1;Southwest;Self-Storage Facility;Compliant;1969;1.0;2;0;52088;;Self-Storage Facility;1377519.5
+228;NonResidential;6;Ballard;Other;Compliant;1973;1.0;3;0;56000;;Other;1851260.5
+130;SPS-District K-12;7;Magnolia / Queen Anne;K-12 School;Error - Correct Default Data;1964;1.0;2;0;93218;86.0;K-12 School;2887392.0
+332;NonResidential;7;Downtown;Office;Compliant;1916;1.0;5;0;73399;61.0;Office, Retail Store;3757006.0
+200;NonResidential;5;Northwest;Financial Office;Compliant;1996;1.0;3;0;55442;72.0;Financial Office, Medical Office, Parking;3191228.25
+386;NonResidential;7;Downtown;Office;Compliant;1964;1.0;22;0;336330;77.0;Office, Other - Restaurant/Bar, Parking;18967014.0
+420;NonResidential;7;Downtown;Parking;Compliant;1996;1.0;6;86429;61423;;Office, Other - Restaurant/Bar, Parking, Retail Store;9671619.0
+424;NonResidential;7;Downtown;Office;Compliant;1971;1.0;21;93204;363100;74.0;Office, Parking;19397324.0
+364;NonResidential;4;Northeast;Office;Compliant;1971;1.0;23;0;474546;77.0;Office;28450436.0
+346;NonResidential;7;Downtown;Office;Compliant;1986;1.0;41;129432;460489;84.0;Office, Parking, Pre-school/Daycare;24603420.0
+286;SPS-District K-12;4;Northeast;K-12 School;Error - Correct Default Data;2006;1.0;3;0;269297;80.0;K-12 School;10498344.0
+114;NonResidential;7;Magnolia / Queen Anne;Office;Compliant;2010;1.0;6;303707;616891;93.0;Office, Other, Parking;36667044.0
+3;NonResidential;7;Downtown;Hotel;Compliant;1969;1.0;41;196718;759392;43.0;Hotel;72587024.0
+125;SPS-District K-12;2;Greater Duwamish;K-12 School;Error - Correct Default Data;1957;1.0;1;0;130862;61.0;K-12 School;6456026.0
+274;NonResidential;4;Lake Union;Non-Refrigerated Warehouse;Compliant;1991;1.0;3;8161;67236;91.0;Non-Refrigerated Warehouse, Parking;549181.375

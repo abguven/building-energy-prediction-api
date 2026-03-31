@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+*.egg
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# Outputs générés par les notebooks (régénérables)
+data/outputs/
+
+# Docs internes (énoncé, slides) — résumé dans le README
+docs/
+
+# Model binaries (trop lourds pour git, régénérables via le notebook)
+models/
+
+# Credentials AWS (le dossier terraform/ est tracké, pas les clés)
+aws_rootkey*
+*.credentials
+
+# Sandbox (brouillons / expérimentations)
+sandbox/
+**/sandbox/
+
+# Outputs intermédiaires des notebooks
+notebooks/csv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# OneDrive sync files
+~$*
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+
+# Others
+*.bak
+*.tmp
+*.swp
+*.swo
